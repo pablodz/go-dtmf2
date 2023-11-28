@@ -1,4 +1,4 @@
-# go-dtmf, the simplest way to decode DTMF audio in golang. 
+# go-dtmf2, the simplest way to decode DTMF audio in golang. 
 
 
 This library provides two high level API to decode [DTMF](https://en.wikipedia.org/wiki/Dual-tone_multi-frequency_signaling) audio or byte slice. 

@@ -3,10 +3,11 @@ package dtmf
 import (
 	"bytes"
 	"errors"
-	utils "github.com/Hallicopter/go-dtmf/utils/dtmf"
-	"github.com/caicloud/nirvana/log"
 	"io"
+	"log"
 	"os"
+
+	utils "github.com/pablodz/go-dtmf2/utils/dtmf"
 )
 
 // DecodeDTMFFromBytes

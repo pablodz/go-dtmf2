@@ -1,8 +1,3 @@
-module github.com/Hallicopter/go-dtmf
+module github.com/pablodz/go-dtmf2
 
-go 1.16
-
-require (
-	github.com/caicloud/nirvana v0.3.1
-	github.com/stretchr/testify v1.7.0
-)
+go 1.18
